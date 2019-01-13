@@ -1,0 +1,1 @@
+A web scraping python script for an all in one fashion boutique website.
